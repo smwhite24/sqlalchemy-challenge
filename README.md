@@ -72,3 +72,15 @@ To run this project, clone the repository and ensure you have Python installed a
 
 Navigate to `http://127.0.0.1:5000/` in your web browser to view the API endpoints and interact with the platform, accessing detailed climate information crucial for planning a trip to Hawaii.
 
+-----
+# Resources
+
+This project was supported by a variety of resources that provided foundational knowledge, practical tools, and expert assistance, ensuring its success:
+
+- **Class Notes, Lectures, and Activities**: Essential for understanding the core concepts and methodologies applied throughout the project.
+- **Xpert Learning Assistant**: Provided on-demand assistance for troubleshooting code, clarifying methodologies, and optimizing processes.
+- **Starter Code and Files**: Initial code and data files provided set the groundwork for project development and implementation.
+
+These resources collectively enhanced the learning experience and facilitated the effective execution of the project tasks.
+
+
